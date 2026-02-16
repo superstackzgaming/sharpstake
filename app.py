@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 
 # --- CONFIGURATION ---
-API_KEY = "YOUR_API_KEY_HERE"  # <--- PASTE YOUR KEY HERE
+API_KEY = "988f69c52b479e0873b5f966dd7908b8"  # <--- PASTE YOUR KEY HERE
 SPORT = "basketball_nba"
 MARKETS = "player_points,player_rebounds,player_assists" 
 BOOKMAKERS = "draftkings,fanduel,mgm"
